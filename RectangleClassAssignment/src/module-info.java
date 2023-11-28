@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author josia
+ *
+ */
+module RectangleClassAssignment {
+}
